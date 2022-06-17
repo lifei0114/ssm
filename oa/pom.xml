@@ -23,7 +23,7 @@
     <slf4j.version>1.7.5</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <!-- 阿里JSON解析器 -->
-    <com.alibaba.version>1.1.40</com.alibaba.version>
+    <com.alibaba.version>1.2.83</com.alibaba.version>
     <!-- 阿里提供的连接池 -->
     <druid.version>1.0.9</druid.version>
   </properties>
